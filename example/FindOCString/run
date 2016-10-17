@@ -1,0 +1,5 @@
+#! /bin/bash
+./bin/FindOCString
+echo "文件一共有"
+cat ~/Desktop/output.txt | wc -l 
+echo "行"
